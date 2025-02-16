@@ -8,4 +8,5 @@ Repository of personal solutions of LeetCode's Problems.
 | [FindIfPathExists](FindIfPathExists) | Find if path exists in bi-directional graph | Easy | C |
 | [FirstBadVersion](FirstBadVersion) | Quick find of bad version | Easy | C |
 | [SumOfLeftLeaves](SumOfLeftLeaves) | Return the sum of all left binary tree's leaves | Easy | C |
+| [RemoveAllOccuranciesOfASubstring](RemoveAllOccuranciesOfASubstring) | Remove all occurancies of a substring | Medium | C |
 | [RemoveKDigits](RemoveKDigits) | Return the smallest integer after digit removal | Medium | C |
